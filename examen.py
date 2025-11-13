@@ -7,7 +7,7 @@ sobre la base de datos 'portafolioexamen', que contiene las tablas
 
 Refactorizado aplicando extraccion de funciones y documentacion mediante docstrings.
 Autor: Serena Sania Esteve
-Version: 2.0
+Version: 3.0
 """
 
 import mysql.connector
